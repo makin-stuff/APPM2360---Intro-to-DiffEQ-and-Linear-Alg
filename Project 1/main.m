@@ -1,4 +1,5 @@
-%Priyanka Makin, 09/25/2016, APPM2360 - DiffEQ
+%Priyanka Makin and Zachary Passarelli, 09/25/2016
+%APPM2360 - DiffEQ, Project 1
 %A simple script describing the position of an astronaut floating through
 %space using direction fields and Euler approximations with different
 %initial positions and step sizes.
